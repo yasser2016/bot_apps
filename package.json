@@ -1,0 +1,16 @@
+{
+  "name": "bot02",
+  "version": "1.0.0",
+  "description": "first bot app",
+  "main": "yes",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+	"start" : "node index.js"
+  },
+  "author": "yasser",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.14.0",
+    "restify": "^6.3.4"
+  }
+}
